@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EbubechukwuEgo
 - 👀 I’m interested in anime/video games/manga/sports/software engineering
-- 🌱 I’m currently learning Java/MySQL/Python
+- 🌱 I’m currently learning Java/MySQL/Python/Kotlin/Data Science/SpringBoot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
